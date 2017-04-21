@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[// Hide Empty Bands
+\$(".band").each(function(){
+	if (!\$(".pane:not(.DNNEmptyPane)",this).length){ \$(this).hide(); }
+});]]></content>
+	<tabTrigger>dnnjsemptybands</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<img src="http://www.fillmurray.com/${1:450}${2:/300}${3:/g/}" alt="" />]]></content>
+	<tabTrigger>placeholder-murray</tabTrigger>
+	<description>Place Holder Image of Bill Murray</description>
+</snippet>

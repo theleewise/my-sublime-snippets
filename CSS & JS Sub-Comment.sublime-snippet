@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/* #${1:SUB-SECTION}
+------------------------------------*/
+]]></content>
+	<description>CSS Sub Comment Section</description>
+	<tabTrigger>//</tabTrigger>
+	<scope>source.css, source.scss, source.sass, source.css.less, source.js</scope>
+</snippet>

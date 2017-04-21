@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<img src="http://www.placecage.com/${1:450}${2:/300}${3:/g/}" alt="" />]]></content>
+	<tabTrigger>placeholder-cage</tabTrigger>
+	<description>Place Holder Image of Nicholas Cage</description>
+</snippet>
