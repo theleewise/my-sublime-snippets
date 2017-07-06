@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<svg><use xlink:href="#${1:icon-id}" height="${2}" width="${3}"></use></svg>]]></content>
+	<tabTrigger>svgicon</tabTrigger>
+</snippet>
