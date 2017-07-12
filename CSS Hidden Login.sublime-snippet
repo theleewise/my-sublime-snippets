@@ -2,5 +2,5 @@
 	<content><![CDATA[/* Hidden Login Link */
 .login-hidden { bottom: 0; height: 50px; left: 0; overflow: hidden; position: fixed; text-indent: -999px; width: 50px; z-index: 999; }]]></content>
 	<tabTrigger>hiddenlogin</tabTrigger>
-	<!-- <scope>source.css, source.scss, source.less</scope> -->
+	<scope>source.css, source.scss, source.sass, source.less, source.postcss</scope>
 </snippet>
